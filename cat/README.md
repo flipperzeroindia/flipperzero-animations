@@ -1,8 +1,25 @@
 
-<a href="http://github.com/adithziva"><img title="IMG" src="img/cat.gif"></a>
+### Hi Geek's  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
 
-<video width="200" height="180" autoplay muted>
-  <source src=".img/cat.mp4" type="video/mp4">
-  <source src=".img/cat.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+
+
+<!--
+\   //~~\ |   |    /\  |~~\|~~  |\  | /~~\~~|~~    /\  |  /~~\ |\  ||~~
+ \ /|    ||   |   /__\ |__/|--  | \ ||    | |     /__\ | |    || \ ||--
+  |  \__/  \_/   /    \|  \|__  |  \| \__/  |    /    \|__\__/ |  \||__
+-->
+
+
+
+<h1 align="center">
+ MAKE IN इंडिया
+<img src="img/in2.gif" width="10%" ></h1><hr>
+
+<h3>Note</>
+
+
+_*Remove README.md file before uploading files to your flipperzero...*_
+_*defualt Name in bubble shot is lev0py. you can change it from meta.txt file and upload*_
+
+https://user-images.githubusercontent.com/122157910/211806344-36960b3c-dba1-4735-9d06-9b86fbbd2407.mp4
+
