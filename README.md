@@ -1,2 +1,2 @@
 # flipper-animations
-This repository contain animation for your flipperZero 
+This repository only contain animations for your flipperZero 
