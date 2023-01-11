@@ -1,4 +1,4 @@
-Support my work and my YouTube Channel at my Patreon!!# flipper-animations
+# Flipperzero-animations
 This repository only contain animations for your flipperZero 
 ### Hi Geek's  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
 
