@@ -19,4 +19,4 @@ This repository only contain animations for your flipperZero
 ![1673443310543](https://user-images.githubusercontent.com/122157910/211817581-0cc8f15f-385c-4038-b42b-ecc750711d8a.png)
 Support my work and folloooow our instagram page for more News/updates about flipperzero in india: https://instagram.com/flipperzeroindia
 <h3>Note</h3>
-before copying animations read readme.md of animations folder
+before copying animations read readme.md note headings of animations folder
